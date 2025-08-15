@@ -25,3 +25,6 @@
 -**Fare & Socioeconomic Factors**
  -Higher fares were associated with higher survival likelihood
  -Indicates social and economic inequalities aboard the Titanic
+
+#Overall, survival on the Titanic was heavily influenced by social class, gender, age, and economic status — 
+with women, children, and wealthy passengers having the best odds of survival.
