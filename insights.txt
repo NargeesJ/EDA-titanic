@@ -1,0 +1,27 @@
+-**Passenger Class & Survival**
+ -Survival Rates: 1st Class – 62.96%, 2nd Class – 47.28%, 3rd Class – 24.23%
+ -1st Class had the highest survival rate; 91 females survived, only 3 females died
+ -3rd Class had the highest death count despite some female survival (72 survived)
+ -Higher-class passengers tended to be older
+
+-**Gender & Survival**
+ -Females survived significantly more than males
+ -Young boys showed higher survival than adult males, aligning with the “women and children first” rule
+
+-**Age & Survival**
+ -Children (0–11 years) had the highest survival rate (57%)
+ -Most survivors were aged 24–35 (156 people)
+ -Oldest passenger (80, male) and youngest passenger (0.42, male) both survived
+ -Senior passengers (60–71 years) had the lowest survival rate
+ -Individuals and smaller families had a wider range of ages
+
+-**Family Size & Survival**
+ -Small families had a higher chance of survival than large families
+ -Large families faced greater survival challenges due to evacuation limitations
+
+-**Embarkation Point**
+ -Passengers embarking from Cherbourg (C) had the highest survival rate
+
+-**Fare & Socioeconomic Factors**
+ -Higher fares were associated with higher survival likelihood
+ -Indicates social and economic inequalities aboard the Titanic
